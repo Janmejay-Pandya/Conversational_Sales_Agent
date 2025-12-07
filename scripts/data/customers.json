@@ -1,0 +1,223 @@
+[
+  {
+    "_id": "cust_001",
+    "name": "Asha Patel",
+    "email": "asha.patel@example.com",
+    "loyalty_tier": "gold",
+    "loyalty_points": 1250,
+    "preferences": {
+      "size": 9,
+      "styles": ["running", "casual"],
+      "preferred_store": "store_02"
+    },
+    "past_purchases": [
+      { "sku": "SHOE-005", "date": "2025-08-02", "price": 3499 }
+    ]
+  },
+  {
+    "_id": "cust_002",
+    "name": "Rohit Sharma",
+    "email": "rohit.sharma@example.com",
+    "loyalty_tier": "silver",
+    "loyalty_points": 540,
+    "preferences": {
+      "size": 10,
+      "styles": ["formal", "casual"],
+      "preferred_store": "store_01"
+    },
+    "past_purchases": [
+      { "sku": "BAG-002", "date": "2025-07-12", "price": 2499 }
+    ]
+  },
+  {
+    "_id": "cust_003",
+    "name": "Nisha Verma",
+    "email": "nisha.verma@example.com",
+    "loyalty_tier": "bronze",
+    "loyalty_points": 120,
+    "preferences": {
+      "size": 7,
+      "styles": ["ethnic", "formal"],
+      "preferred_store": "store_03"
+    },
+    "past_purchases": [
+      { "sku": "DRESS-003", "date": "2025-06-30", "price": 1999 }
+    ]
+  },
+  {
+    "_id": "cust_004",
+    "name": "Suresh Iyer",
+    "email": "suresh.iyer@example.com",
+    "loyalty_tier": "gold",
+    "loyalty_points": 2100,
+    "preferences": {
+      "size": 9,
+      "styles": ["running"],
+      "preferred_store": "store_02"
+    },
+    "past_purchases": [
+      { "sku": "WATCH-001", "date": "2024-12-05", "price": 7999 }
+    ]
+  },
+  {
+    "_id": "cust_005",
+    "name": "Priya Singh",
+    "email": "priya.singh@example.com",
+    "loyalty_tier": "silver",
+    "loyalty_points": 680,
+    "preferences": {
+      "size": 8,
+      "styles": ["casual"],
+      "preferred_store": "store_04"
+    },
+    "past_purchases": [{ "sku": "TOP-010", "date": "2025-03-12", "price": 699 }]
+  },
+  {
+    "_id": "cust_006",
+    "name": "Amit Desai",
+    "email": "amit.desai@example.com",
+    "loyalty_tier": "bronze",
+    "loyalty_points": 90,
+    "preferences": {
+      "size": 11,
+      "styles": ["sports"],
+      "preferred_store": "store_01"
+    },
+    "past_purchases": [
+      { "sku": "SHORTS-004", "date": "2025-09-10", "price": 899 }
+    ]
+  },
+  {
+    "_id": "cust_007",
+    "name": "Kajal Mehta",
+    "email": "kajal.mehta@example.com",
+    "loyalty_tier": "gold",
+    "loyalty_points": 1600,
+    "preferences": {
+      "size": 6,
+      "styles": ["formal", "casual"],
+      "preferred_store": "store_05"
+    },
+    "past_purchases": [
+      { "sku": "BLAZER-002", "date": "2025-01-20", "price": 4999 }
+    ]
+  },
+  {
+    "_id": "cust_008",
+    "name": "Vikram Rao",
+    "email": "vikram.rao@example.com",
+    "loyalty_tier": "silver",
+    "loyalty_points": 720,
+    "preferences": {
+      "size": 9,
+      "styles": ["running", "outdoor"],
+      "preferred_store": "store_02"
+    },
+    "past_purchases": [
+      { "sku": "SHOE-010", "date": "2025-10-05", "price": 4299 }
+    ]
+  },
+  {
+    "_id": "cust_009",
+    "name": "Meera Joshi",
+    "email": "meera.joshi@example.com",
+    "loyalty_tier": "bronze",
+    "loyalty_points": 200,
+    "preferences": {
+      "size": 7,
+      "styles": ["ethnic"],
+      "preferred_store": "store_03"
+    },
+    "past_purchases": [
+      { "sku": "SAREE-001", "date": "2025-02-25", "price": 3499 }
+    ]
+  },
+  {
+    "_id": "cust_010",
+    "name": "Arjun Kapoor",
+    "email": "arjun.kapoor@example.com",
+    "loyalty_tier": "gold",
+    "loyalty_points": 1950,
+    "preferences": {
+      "size": 10,
+      "styles": ["formal", "casual"],
+      "preferred_store": "store_01"
+    },
+    "past_purchases": [
+      { "sku": "SUIT-001", "date": "2024-11-11", "price": 12999 }
+    ]
+  },
+  {
+    "_id": "cust_011",
+    "name": "Sana Khan",
+    "email": "sana.khan@example.com",
+    "loyalty_tier": "silver",
+    "loyalty_points": 420,
+    "preferences": {
+      "size": 8,
+      "styles": ["casual", "party"],
+      "preferred_store": "store_04"
+    },
+    "past_purchases": [
+      { "sku": "DRESS-007", "date": "2025-05-18", "price": 1899 }
+    ]
+  },
+  {
+    "_id": "cust_012",
+    "name": "Dev Patel",
+    "email": "dev.patel@example.com",
+    "loyalty_tier": "bronze",
+    "loyalty_points": 80,
+    "preferences": {
+      "size": 9,
+      "styles": ["running"],
+      "preferred_store": "store_02"
+    },
+    "past_purchases": [
+      { "sku": "SHOE-005", "date": "2025-08-02", "price": 3499 }
+    ]
+  },
+  {
+    "_id": "cust_013",
+    "name": "Rashmi Kaur",
+    "email": "rashmi.kaur@example.com",
+    "loyalty_tier": "gold",
+    "loyalty_points": 1400,
+    "preferences": {
+      "size": 7,
+      "styles": ["ethnic", "party"],
+      "preferred_store": "store_05"
+    },
+    "past_purchases": [
+      { "sku": "LEHENGA-001", "date": "2024-10-10", "price": 8999 }
+    ]
+  },
+  {
+    "_id": "cust_014",
+    "name": "Gautam Sen",
+    "email": "gautam.sen@example.com",
+    "loyalty_tier": "silver",
+    "loyalty_points": 600,
+    "preferences": {
+      "size": 11,
+      "styles": ["outdoor"],
+      "preferred_store": "store_01"
+    },
+    "past_purchases": [
+      { "sku": "JACKET-003", "date": "2025-01-05", "price": 3499 }
+    ]
+  },
+  {
+    "_id": "cust_015",
+    "name": "Neha Kapoor",
+    "email": "neha.kapoor@example.com",
+    "loyalty_tier": "bronze",
+    "loyalty_points": 150,
+    "preferences": {
+      "size": 8,
+      "styles": ["casual", "running"],
+      "preferred_store": "store_04"
+    },
+    "past_purchases": [{ "sku": "TOP-004", "date": "2025-04-07", "price": 799 }]
+  }
+]

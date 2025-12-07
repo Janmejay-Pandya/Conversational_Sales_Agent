@@ -1,0 +1,128 @@
+[
+  {
+    "sku": "SHOE-001",
+    "locations": {
+      "store_01": 5,
+      "store_02": 2,
+      "store_03": 0,
+      "warehouse_01": 40
+    }
+  },
+  {
+    "sku": "SHOE-002",
+    "locations": {
+      "store_01": 3,
+      "store_02": 1,
+      "store_03": 2,
+      "warehouse_01": 30
+    }
+  },
+  {
+    "sku": "SHOE-003",
+    "locations": {
+      "store_01": 10,
+      "store_02": 5,
+      "store_03": 1,
+      "warehouse_01": 20
+    }
+  },
+  {
+    "sku": "SHOE-005",
+    "locations": {
+      "store_01": 0,
+      "store_02": 3,
+      "store_03": 2,
+      "warehouse_01": 15
+    }
+  },
+  {
+    "sku": "SHOE-010",
+    "locations": {
+      "store_01": 1,
+      "store_02": 0,
+      "store_03": 6,
+      "warehouse_01": 10
+    }
+  },
+  {
+    "sku": "BAG-001",
+    "locations": {
+      "store_01": 6,
+      "store_02": 4,
+      "store_03": 2,
+      "warehouse_01": 25
+    }
+  },
+  {
+    "sku": "BAG-002",
+    "locations": {
+      "store_01": 2,
+      "store_02": 2,
+      "store_03": 0,
+      "warehouse_01": 12
+    }
+  },
+  {
+    "sku": "DRESS-003",
+    "locations": { 
+        "store_03": 5, 
+        "store_04": 6, 
+        "warehouse_01": 10 
+    }
+  },
+  {
+    "sku": "DRESS-007",
+    "locations": { "store_04": 3, "store_05": 1, "warehouse_01": 8 }
+  },
+  {
+    "sku": "TOP-004",
+    "locations": { "store_01": 15, "store_02": 10, "warehouse_01": 30 }
+  },
+  {
+    "sku": "TOP-010",
+    "locations": { "store_01": 12, "store_04": 8, "warehouse_01": 22 }
+  },
+  {
+    "sku": "SHORTS-004",
+    "locations": { "store_01": 7, "store_02": 6, "warehouse_01": 20 }
+  },
+  { "sku": "BLAZER-002", "locations": { "store_05": 2, "warehouse_01": 5 } },
+  {
+    "sku": "WATCH-001",
+    "locations": { "store_01": 1, "store_02": 0, "warehouse_01": 6 }
+  },
+  {
+    "sku": "SAREE-001",
+    "locations": { "store_03": 4, "store_05": 2, "warehouse_01": 8 }
+  },
+  { "sku": "SUIT-001", "locations": { "store_01": 0, "warehouse_01": 3 } },
+  { "sku": "LEHENGA-001", "locations": { "store_05": 1, "warehouse_01": 2 } },
+  {
+    "sku": "JACKET-003",
+    "locations": { "store_01": 6, "store_04": 3, "warehouse_01": 12 }
+  },
+  {
+    "sku": "TOP-015",
+    "locations": { "store_01": 20, "store_02": 15, "warehouse_01": 40 }
+  },
+  {
+    "sku": "BAG-005",
+    "locations": { "store_02": 8, "store_03": 3, "warehouse_01": 10 }
+  },
+  { "sku": "SHORTS-010", "locations": { "store_02": 6, "warehouse_01": 14 } },
+  {
+    "sku": "HAT-001",
+    "locations": { "store_01": 25, "store_04": 10, "warehouse_01": 50 }
+  },
+  {
+    "sku": "SOCK-001",
+    "locations": { "store_01": 50, "store_02": 40, "warehouse_01": 200 }
+  },
+  { "sku": "BUNDLE-001", "locations": { "store_01": 2, "warehouse_01": 8 } },
+  { "sku": "GLASSES-001", "locations": { "store_03": 4, "warehouse_01": 9 } },
+  { "sku": "BLAZER-010", "locations": { "store_01": 3, "warehouse_01": 5 } },
+  { "sku": "DRESS-011", "locations": { "store_04": 5, "warehouse_01": 10 } },
+  { "sku": "SHOE-020", "locations": { "store_03": 6, "warehouse_01": 12 } },
+  { "sku": "PILLOW-001", "locations": { "store_04": 10, "warehouse_01": 40 } },
+  { "sku": "SHOE-020", "locations": { "store_05": 3, "warehouse_01": 12 } }
+]

@@ -1,0 +1,27 @@
+fastapi                                     
+uvicorn                                     
+python-dotenv                                     
+# LangChain + LangGraph                                     
+langchain                                     
+langgraph                                     
+groq                                     
+# Database                                                           
+asyncpg                                     
+alembic                                     
+# Redis                                     
+redis                                     
+aioredis                                     
+# Utiliies                                     
+pydantic                                     
+requests                                     
+# Optional for async caching & tooling                                     
+tenacity                                     
+tqdm                                                                       
+motor          # async MongoDB driver
+httpx
+jinja2
+aiofiles
+websockets
+typing_extensions
+pymongo
+pydantic-settings

@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "store_01",
+    "name": "Central Mall - Mumbai",
+    "address": "Shop 112, Central Mall, Mumbai",
+    "contact": "+91-22-4000-0001"
+  },
+  {
+    "_id": "store_02",
+    "name": "Highstreet Plaza - Delhi",
+    "address": "Unit G5, Highstreet Plaza, New Delhi",
+    "contact": "+91-11-4000-0002"
+  },
+  {
+    "_id": "store_03",
+    "name": "City Square - Bengaluru",
+    "address": "Block A, City Square, Bengaluru",
+    "contact": "+91-80-4000-0003"
+  },
+  {
+    "_id": "store_04",
+    "name": "Ocean View - Chennai",
+    "address": "Level 2, Ocean View, Chennai",
+    "contact": "+91-44-4000-0004"
+  },
+  {
+    "_id": "store_05",
+    "name": "Northgate - Kolkata",
+    "address": "Shop 21, Northgate, Kolkata",
+    "contact": "+91-33-4000-0005"
+  },
+  {
+    "_id": "warehouse_01",
+    "name": "Central Warehouse",
+    "address": "Industrial Area, Pune",
+    "contact": "+91-20-4000-0099"
+  }
+]

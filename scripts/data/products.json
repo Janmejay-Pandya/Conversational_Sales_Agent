@@ -1,0 +1,263 @@
+[
+  {
+    "sku": "SHOE-001",
+    "name": "SprintRun Trainer",
+    "category": "shoes",
+    "brand": "SpeedCorp",
+    "price": 5499,
+    "images": ["/images/shoe-001.jpg"],
+    "attributes": { "sizes": [7, 8, 9, 10, 11], "colors": ["black", "blue"] }
+  },
+  {
+    "sku": "SHOE-002",
+    "name": "TrailBlaze Hiker",
+    "category": "shoes",
+    "brand": "TrailPro",
+    "price": 6799,
+    "images": ["/images/shoe-002.jpg"],
+    "attributes": { "sizes": [8, 9, 10, 11], "colors": ["brown", "green"] }
+  },
+  {
+    "sku": "SHOE-003",
+    "name": "CityWalk Loafer",
+    "category": "shoes",
+    "brand": "UrbanStep",
+    "price": 2999,
+    "images": ["/images/shoe-003.jpg"],
+    "attributes": { "sizes": [6, 7, 8, 9, 10], "colors": ["tan", "black"] }
+  },
+  {
+    "sku": "SHOE-005",
+    "name": "SprintRun Lite",
+    "category": "shoes",
+    "brand": "SpeedCorp",
+    "price": 3499,
+    "images": ["/images/shoe-005.jpg"],
+    "attributes": { "sizes": [7, 8, 9, 10], "colors": ["white", "black"] }
+  },
+  {
+    "sku": "SHOE-010",
+    "name": "Marathon Pro",
+    "category": "shoes",
+    "brand": "Enduro",
+    "price": 4299,
+    "images": ["/images/shoe-010.jpg"],
+    "attributes": { "sizes": [8, 9, 10, 11], "colors": ["red", "black"] }
+  },
+  {
+    "sku": "BAG-001",
+    "name": "Commuter Backpack",
+    "category": "bags",
+    "brand": "BagLess",
+    "price": 3199,
+    "images": ["/images/bag-001.jpg"],
+    "attributes": { "volume_l": 20, "colors": ["grey", "navy"] }
+  },
+  {
+    "sku": "BAG-002",
+    "name": "Leather Satchel",
+    "category": "bags",
+    "brand": "ClassicCarry",
+    "price": 2499,
+    "images": ["/images/bag-002.jpg"],
+    "attributes": { "colors": ["brown"] }
+  },
+  {
+    "sku": "DRESS-003",
+    "name": "Floral Summer Dress",
+    "category": "women_clothing",
+    "brand": "Lea",
+    "price": 1999,
+    "images": ["/images/dress-003.jpg"],
+    "attributes": { "sizes": ["S", "M", "L"], "colors": ["pink", "white"] }
+  },
+  {
+    "sku": "DRESS-007",
+    "name": "Evening Party Dress",
+    "category": "women_clothing",
+    "brand": "Glam",
+    "price": 1899,
+    "images": ["/images/dress-007.jpg"],
+    "attributes": { "sizes": ["S", "M", "L"], "colors": ["black"] }
+  },
+  {
+    "sku": "TOP-004",
+    "name": "Casual Tee",
+    "category": "men_clothing",
+    "brand": "Everyday",
+    "price": 799,
+    "images": ["/images/top-004.jpg"],
+    "attributes": { "sizes": ["M", "L", "XL"], "colors": ["white", "navy"] }
+  },
+  {
+    "sku": "TOP-010",
+    "name": "Summer Polo",
+    "category": "men_clothing",
+    "brand": "PoloPro",
+    "price": 699,
+    "images": ["/images/top-010.jpg"],
+    "attributes": { "sizes": ["M", "L", "XL"], "colors": ["blue", "green"] }
+  },
+  {
+    "sku": "SHORTS-004",
+    "name": "Training Shorts",
+    "category": "sportswear",
+    "brand": "ActiveX",
+    "price": 899,
+    "images": ["/images/shorts-004.jpg"],
+    "attributes": { "sizes": ["S", "M", "L"], "colors": ["black"] }
+  },
+  {
+    "sku": "BLAZER-002",
+    "name": "Formal Blazer",
+    "category": "men_clothing",
+    "brand": "TailorMade",
+    "price": 4999,
+    "images": ["/images/blazer-002.jpg"],
+    "attributes": { "sizes": ["38", "40", "42"], "colors": ["navy"] }
+  },
+  {
+    "sku": "WATCH-001",
+    "name": "ChronoWatch Series 3",
+    "category": "accessories",
+    "brand": "TimeCraft",
+    "price": 7999,
+    "images": ["/images/watch-001.jpg"],
+    "attributes": { "colors": ["silver", "black"] }
+  },
+  {
+    "sku": "SAREE-001",
+    "name": "Silk Sari Special",
+    "category": "women_clothing",
+    "brand": "Tradition",
+    "price": 3499,
+    "images": ["/images/saree-001.jpg"],
+    "attributes": { "colors": ["red", "maroon"] }
+  },
+  {
+    "sku": "SUIT-001",
+    "name": "Business Suit",
+    "category": "men_clothing",
+    "brand": "EliteWear",
+    "price": 12999,
+    "images": ["/images/suit-001.jpg"],
+    "attributes": { "sizes": ["40", "42", "44"], "colors": ["grey"] }
+  },
+  {
+    "sku": "LEHENGA-001",
+    "name": "Celebration Lehenga",
+    "category": "women_clothing",
+    "brand": "Festiva",
+    "price": 8999,
+    "images": ["/images/lehenga-001.jpg"],
+    "attributes": { "sizes": ["S", "M", "L"], "colors": ["gold"] }
+  },
+  {
+    "sku": "JACKET-003",
+    "name": "Windproof Jacket",
+    "category": "outerwear",
+    "brand": "OutdoorX",
+    "price": 3499,
+    "images": ["/images/jacket-003.jpg"],
+    "attributes": { "sizes": ["M", "L", "XL"], "colors": ["black", "olive"] }
+  },
+  {
+    "sku": "TOP-015",
+    "name": "Graphic Tee",
+    "category": "men_clothing",
+    "brand": "StreetArt",
+    "price": 699,
+    "images": ["/images/top-015.jpg"],
+    "attributes": { "sizes": ["M", "L", "XL"], "colors": ["white", "black"] }
+  },
+  {
+    "sku": "BAG-005",
+    "name": "Crossbody Mini",
+    "category": "bags",
+    "brand": "MiniGo",
+    "price": 1299,
+    "images": ["/images/bag-005.jpg"],
+    "attributes": { "colors": ["red", "black"] }
+  },
+  {
+    "sku": "SHORTS-010",
+    "name": "Running Shorts Elite",
+    "category": "sportswear",
+    "brand": "ActiveX",
+    "price": 999,
+    "images": ["/images/shorts-010.jpg"],
+    "attributes": { "sizes": ["S", "M", "L"], "colors": ["blue"] }
+  },
+  {
+    "sku": "HAT-001",
+    "name": "Sun Cap",
+    "category": "accessories",
+    "brand": "Shade",
+    "price": 349,
+    "images": ["/images/hat-001.jpg"],
+    "attributes": { "colors": ["beige", "black"] }
+  },
+  {
+    "sku": "SOCK-001",
+    "name": "Cushion Socks Pack",
+    "category": "accessories",
+    "brand": "ComfyFeet",
+    "price": 199,
+    "images": ["/images/sock-001.jpg"],
+    "attributes": { "sizes": ["M", "L"], "colors": ["white", "grey"] }
+  },
+  {
+    "sku": "BUNDLE-001",
+    "name": "Running Starter Pack",
+    "category": "bundles",
+    "brand": "SpeedCorp",
+    "price": 6999,
+    "images": ["/images/bundle-001.jpg"],
+    "attributes": { "components": ["SHOE-001", "SHORTS-010", "SOCK-001"] }
+  },
+  {
+    "sku": "GLASSES-001",
+    "name": "Polarized Sunglasses",
+    "category": "accessories",
+    "brand": "Bright",
+    "price": 2199,
+    "images": ["/images/glasses-001.jpg"],
+    "attributes": { "colors": ["black"] }
+  },
+  {
+    "sku": "BLAZER-010",
+    "name": "Casual Blazer",
+    "category": "men_clothing",
+    "brand": "TailorMade",
+    "price": 4299,
+    "images": ["/images/blazer-010.jpg"],
+    "attributes": { "sizes": ["38", "40", "42"], "colors": ["grey"] }
+  },
+  {
+    "sku": "DRESS-011",
+    "name": "Summer Maxi Dress",
+    "category": "women_clothing",
+    "brand": "Lea",
+    "price": 2299,
+    "images": ["/images/dress-011.jpg"],
+    "attributes": { "sizes": ["S", "M", "L"], "colors": ["yellow"] }
+  },
+  {
+    "sku": "SHOE-020",
+    "name": "Kids Runner",
+    "category": "kids",
+    "brand": "MiniRun",
+    "price": 2199,
+    "images": ["/images/shoe-020.jpg"],
+    "attributes": { "sizes": [2, 3, 4, 5], "colors": ["blue", "pink"] }
+  },
+  {
+    "sku": "PILLOW-001",
+    "name": "Memory Foam Pillow",
+    "category": "home",
+    "brand": "RestWell",
+    "price": 1499,
+    "images": ["/images/pillow-001.jpg"],
+    "attributes": { "dimensions": "60x40" }
+  }
+]

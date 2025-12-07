@@ -1,0 +1,126 @@
+[
+  {
+    "promo_id": "PROMO_10_OFF",
+    "description": "10% off on select sports items",
+    "categories": ["sportswear", "shoes"],
+    "discount_pct": 10,
+    "starts": "2025-11-01",
+    "ends": "2025-12-31",
+    "min_loyalty_tier": "bronze"
+  },
+  {
+    "promo_id": "PROMO_BOGO_SOCKS",
+    "description": "Buy 1 get 1 socks free",
+    "skus": ["SOCK-001"],
+    "type": "bogo",
+    "starts": "2025-11-10",
+    "ends": "2025-11-30",
+    "min_loyalty_tier": "bronze"
+  },
+  {
+    "promo_id": "PROMO_GOLD_5",
+    "description": "Extra ₹500 off for Gold members on orders above ₹5000",
+    "discount_flat": 500,
+    "min_order_value": 5000,
+    "min_loyalty_tier": "gold",
+    "starts": "2025-09-01",
+    "ends": "2026-01-01"
+  },
+  {
+    "promo_id": "PROMO_BACK2SCHOOL",
+    "description": "15% off on kids category",
+    "categories": ["kids"],
+    "discount_pct": 15,
+    "starts": "2025-08-01",
+    "ends": "2025-12-31",
+    "min_loyalty_tier": "bronze"
+  },
+  {
+    "promo_id": "PROMO_FREE_SHIP",
+    "description": "Free shipping for orders above ₹2000",
+    "min_order_value": 2000,
+    "type": "free_shipping",
+    "starts": "2025-01-01",
+    "ends": "2026-01-01"
+  },
+  {
+    "promo_id": "PROMO_PORTAL_5",
+    "description": "5% off new customers",
+    "discount_pct": 5,
+    "starts": "2025-01-01",
+    "ends": "2025-12-31",
+    "min_customer_new": true
+  },
+  {
+    "promo_id": "PROMO_WINTER",
+    "description": "20% off jackets (Seasonal)",
+    "categories": ["outerwear"],
+    "discount_pct": 20,
+    "starts": "2025-11-15",
+    "ends": "2026-02-28"
+  },
+  {
+    "promo_id": "PROMO_BAG10",
+    "description": "₹300 off on bags above ₹2000",
+    "categories": ["bags"],
+    "discount_flat": 300,
+    "min_order_value": 2000,
+    "starts": "2025-10-01",
+    "ends": "2025-12-31"
+  },
+  {
+    "promo_id": "PROMO_BDAY",
+    "description": "Birthday coupon — ₹400 off (single use)",
+    "discount_flat": 400,
+    "type": "single_use",
+    "starts": "2025-01-01",
+    "ends": "2026-01-01"
+  },
+  {
+    "promo_id": "PROMO_CLEAROUT",
+    "description": "Up to 50% off clearance items",
+    "categories": ["home", "accessories"],
+    "discount_pct": 30,
+    "starts": "2025-09-01",
+    "ends": "2025-11-30"
+  },
+  {
+    "promo_id": "PROMO_FESTIVE_BUNDLE",
+    "description": "Bundle discount: ₹1000 off selected bundles",
+    "skus": ["BUNDLE-001"],
+    "discount_flat": 1000,
+    "starts": "2025-11-01",
+    "ends": "2025-11-30"
+  },
+  {
+    "promo_id": "PROMO_FIRST50",
+    "description": "First 50 customers get extra 5% off",
+    "discount_pct": 5,
+    "starts": "2025-11-16",
+    "ends": "2025-11-30",
+    "limit": 50
+  },
+  {
+    "promo_id": "PROMO_FLASH",
+    "description": "Flash sale — 25% off selected items for 2 hours",
+    "discount_pct": 25,
+    "starts": "2025-11-20",
+    "ends": "2025-11-20"
+  },
+  {
+    "promo_id": "PROMO_FREE_WRAP",
+    "description": "Free gift wrap for orders above ₹3000",
+    "type": "free_gift_wrap",
+    "min_order_value": 3000,
+    "starts": "2025-10-01",
+    "ends": "2025-12-31"
+  },
+  {
+    "promo_id": "PROMO_LOYALTY_BOOST",
+    "description": "Double points for Gold members on weekend purchases",
+    "type": "double_points",
+    "min_loyalty_tier": "gold",
+    "starts": "2025-11-01",
+    "ends": "2026-01-01"
+  }
+]
